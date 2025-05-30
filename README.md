@@ -32,3 +32,15 @@ By the end of this project, users can:
 - Query and interpret sales data using SQL.
 - Build Excel summaries and pivot tables.
 - Create a dynamic dashboard in Power BI to support data-driven decisions.
+
+  
+## 👤 Author
+
+**Dharani Dandu**  
+📧 Email: [dharani.dandu2005@gmail.com](mailto:dharani.dandu2005@gmail.com)  
+🔗 linkedin : www.linkedin.com/in/dharani-dandu-4aab4626b
+
+---
+
+Feel free to fork this repo, explore the queries, and use the dashboard to enhance your understanding of business analytics through a real-world dataset.
+
